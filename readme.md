@@ -49,7 +49,7 @@ I have followed the below design/workflow to be able to solve this problem of do
    3. checks for human face, and if found returns the dog breed which human's face resembles to.
    4. Handles the error in an interactive manner if neither dog or human face is found in the image.
 
-See the project report [Project_report_Dog_Breed_Classifier.pdf]() for more details about the project.
+See the project report [Project_report_Dog_Breed_Classifier.pdf](https://github.com/vedvyas1994/Dog-Breed-Classifier/blob/master/Project_report_Dog_Breed_Classifier.pdf) for more details about the project.
 
 ### Software Requirements
 This project requires **Python 3.x** and the following Python libraries installed:
